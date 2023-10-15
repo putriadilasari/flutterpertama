@@ -1,6 +1,6 @@
 class Person{
 
-String name = "Nanda"; String? address;
+String name = "putri"; String? address;
 final String country = "Indonesia";
 
 Person(String name, String address){
