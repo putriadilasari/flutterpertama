@@ -5,8 +5,8 @@ final String country = "Indonesia";
 
 // constructor
 // Person(String name, String address) {
-//	this.name = name;
-//	this.address = address;
+//  this.name = name;
+//  this.address = address;
 // }
 
 // Person.withName(this.name) {}
@@ -14,3 +14,4 @@ final String country = "Indonesia";
 // Person.withAddress(this.address) {}
 void sayHello() => print("Hello $name, my name is $name"); int usia() => 25;
 }
+

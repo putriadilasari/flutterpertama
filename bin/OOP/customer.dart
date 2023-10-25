@@ -8,3 +8,4 @@ class Customer {
 
 Customer(this.name, this.level);
 }
+

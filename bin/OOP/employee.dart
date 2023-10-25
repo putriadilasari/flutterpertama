@@ -2,7 +2,7 @@ class Employee { String? name; int usia = 22;
 }
 
 class VicePresident extends Employee { String? name;
-int usia = 22;
+int usia = 20;
 
 VicePresident(String name) { this.name = name;
 }
@@ -15,7 +15,7 @@ print("Hello President ${employee.name} dan usia ${employee.usia}");
  }
 }
 void main() {
-Employee employee = Employee(); employee.name = "Nanda";
-employee = VicePresident("Nanda"); sayHello(employee);
+Employee employee = Employee(); employee.name = "putri";
+employee = VicePresident("putri"); sayHello(employee);
 }
 

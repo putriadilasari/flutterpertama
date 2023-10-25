@@ -9,3 +9,4 @@ class Avanza implements Car, HasBrand {
 
 String getBrand() => "Toyota";
 }
+
