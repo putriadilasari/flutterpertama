@@ -1,6 +1,8 @@
 class Car {
-String name = ""; void drive() {}
-int getTire() { return 0;
+String name = ""; 
+void drive() {}
+int getTire() 
+{ return 0;
 
 }
 }
