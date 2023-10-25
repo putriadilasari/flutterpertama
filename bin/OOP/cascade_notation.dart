@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> 649a5477acf58b86288c554310efb53085f4cb28
 class User {
   String? username;
   String? name;
@@ -24,4 +27,9 @@ void main(){
     ?..username = "putri"
     ..name = "adila"
     ..email = "putriadila@contoh.com";
+<<<<<<< HEAD
 }
+=======
+}
+
+>>>>>>> 649a5477acf58b86288c554310efb53085f4cb28

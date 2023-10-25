@@ -18,4 +18,8 @@ void main(){
    var vp = VicePresident();
    vp.name = 'sari';
    vp.SayHello('adila');
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 649a5477acf58b86288c554310efb53085f4cb28

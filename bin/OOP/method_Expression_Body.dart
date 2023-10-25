@@ -21,4 +21,8 @@ void main(){
   computer.startup();
   computer.shutdown();
   print(computer.getOperatingSystem());
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 649a5477acf58b86288c554310efb53085f4cb28

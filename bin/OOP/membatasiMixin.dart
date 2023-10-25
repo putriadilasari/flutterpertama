@@ -1,6 +1,9 @@
 import 'mixin.dart';
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 649a5477acf58b86288c554310efb53085f4cb28
  abstract class Multimedia {}
 
  mixin Playable on Multimedia{ 

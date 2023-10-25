@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> 649a5477acf58b86288c554310efb53085f4cb28
 class Manager {
 
   String? name;
@@ -33,4 +36,10 @@ void main(){
   var vp = VicePresident();
   vp.name = "putri";
   vp.sayHello('adila');
+<<<<<<< HEAD
 }
+=======
+}
+
+
+>>>>>>> 649a5477acf58b86288c554310efb53085f4cb28

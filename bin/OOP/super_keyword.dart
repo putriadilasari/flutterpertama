@@ -17,4 +17,8 @@ void main(){
 
   print(RangeError.index.getCorner());
   print(rectangle.getParenCorner());
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 649a5477acf58b86288c554310efb53085f4cb28
